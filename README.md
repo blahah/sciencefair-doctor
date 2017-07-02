@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>sciencefair-doctor</h1>
-  <h2>WIP - nothing to see here</h2>
+  <h2>WIP - diagnose connection issues for ScienceFair</h2>
   <p>
     <a href="https://npmjs.com/packages/sciencefair-doctor" alt="npm package">
       <img src="https://img.shields.io/npm/v/sciencefair-doctor.svg?style=flat-square">
@@ -23,9 +23,7 @@ npm install sciencefair-doctor
 
 ## Usage
 
-``` js
-var sciencefair-doctor = require('sciencefair-doctor')
-```
+> this module is not yet ready for use
 
 ## License
 
