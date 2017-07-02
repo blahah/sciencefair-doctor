@@ -17,8 +17,11 @@
 
 ## Install
 
+clone the repo and `cd` into it, then:
+
 ```
-npm install sciencefair-doctor
+npm install
+npm run doctor
 ```
 
 ## Usage
